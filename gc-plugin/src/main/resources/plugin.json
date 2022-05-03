@@ -1,0 +1,8 @@
+{
+  "name": "GcTakeDrugsPlugin",
+  "description": "Grasscutter Take Drugs Plugin",
+  "version": "dev-1.0.0",
+  
+  "mainClass": "com.jahv.gtd.WakeUpPlugin",
+  "authors": ["jahv"]
+}
